@@ -9,4 +9,6 @@ licensed under the [GNU General Public License v3.0](LICENSE)
 # About
 about read me https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes
 
+# checking git status
+
 
